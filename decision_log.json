@@ -1,0 +1,219 @@
+{
+  "niche": {
+    "cluster": "stickers_printable",
+    "raw_score": 87.0,
+    "mentions": 0,
+    "single_word_hits": 0,
+    "season_boost": 1.0,
+    "world_state_boost": 58,
+    "competition_hits": 0,
+    "deliverability": 1.0,
+    "final_score": 87.0,
+    "evidence": [
+      {
+        "sub": "world_state",
+        "title": "trending: print",
+        "score": 20,
+        "matched_kw": "printable sticker",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: printable",
+        "score": 8,
+        "matched_kw": "printable sticker",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: table",
+        "score": 6,
+        "matched_kw": "printable sticker",
+        "url": "internal://world_state/consensus"
+      },
+      {
+        "sub": "world_state",
+        "title": "trending: planner",
+        "score": 24,
+        "matched_kw": "planner sticker",
+        "url": "internal://world_state/consensus"
+      }
+    ],
+    "_research_brief": {
+      "answer_preview": "The provided sources do not answer the question. There is no information within the sources regarding sticker sheet, printable sticker, or digital sticker bestsellers for 2026, nor is there data regarding sticker variants, price points, or buyer demographics that convert.\n\nThe sources instead focus on reports of Etsy shops experiencing significant declines in traffic and sales starting around November 6th [SOURCE 1, SOURCE 3] and provide feedback on the presentation of trivia night downloads, suggesting that more descriptors and a focus on content rather than mockups may be beneficial for buyers [SOURCE 2].",
+      "retrieved_chunks": 3,
+      "browsed_urls": [
+        "https://en.wikipedia.org/wiki/Conversion"
+      ],
+      "source": "vault_after_browse"
+    },
+    "_live_theme": {
+      "theme": "Tropical Floral Printing",
+      "source": "pinterest_consensus",
+      "raw_count": 1,
+      "filter_match": true,
+      "all_candidates_top5": [
+        {
+          "phrase": "relaxed fit",
+          "raw_count": 4,
+          "filter_match": false,
+          "score": 8,
+          "kind": "bigram"
+        },
+        {
+          "phrase": "boyhood bundled digital",
+          "raw_count": 2,
+          "filter_match": false,
+          "score": 6,
+          "kind": "trigram"
+        },
+        {
+          "phrase": "bundled digital nursery",
+          "raw_count": 2,
+          "filter_match": false,
+          "score": 6,
+          "kind": "trigram"
+        },
+        {
+          "phrase": "digital nursery wall",
+          "raw_count": 2,
+          "filter_match": false,
+          "score": 6,
+          "kind": "trigram"
+        },
+        {
+          "phrase": "tropical floral printing",
+          "raw_count": 1,
+          "filter_match": true,
+          "score": 6,
+          "kind": "trigram"
+        }
+      ],
+      "excluded_by_claims": [
+        "modern botanical illustration",
+        "vintage boy nursery",
+        "worn tropical floral",
+        "hibiscus print"
+      ]
+    }
+  },
+  "all_ranked": [
+    {
+      "cluster": "stickers_printable",
+      "raw_score": 87.0,
+      "mentions": 0,
+      "single_word_hits": 0,
+      "season_boost": 1.0,
+      "world_state_boost": 58,
+      "competition_hits": 0,
+      "deliverability": 1.0,
+      "final_score": 87.0,
+      "evidence": [
+        {
+          "sub": "world_state",
+          "title": "trending: print",
+          "score": 20,
+          "matched_kw": "printable sticker",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: printable",
+          "score": 8,
+          "matched_kw": "printable sticker",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: table",
+          "score": 6,
+          "matched_kw": "printable sticker",
+          "url": "internal://world_state/consensus"
+        },
+        {
+          "sub": "world_state",
+          "title": "trending: planner",
+          "score": 24,
+          "matched_kw": "planner sticker",
+          "url": "internal://world_state/consensus"
+        }
+      ],
+      "_research_brief": {
+        "answer_preview": "The provided sources do not answer the question. There is no information within the sources regarding sticker sheet, printable sticker, or digital sticker bestsellers for 2026, nor is there data regarding sticker variants, price points, or buyer demographics that convert.\n\nThe sources instead focus on reports of Etsy shops experiencing significant declines in traffic and sales starting around November 6th [SOURCE 1, SOURCE 3] and provide feedback on the presentation of trivia night downloads, suggesting that more descriptors and a focus on content rather than mockups may be beneficial for buyers [SOURCE 2].",
+        "retrieved_chunks": 3,
+        "browsed_urls": [
+          "https://en.wikipedia.org/wiki/Conversion"
+        ],
+        "source": "vault_after_browse"
+      },
+      "_live_theme": {
+        "theme": "Tropical Floral Printing",
+        "source": "pinterest_consensus",
+        "raw_count": 1,
+        "filter_match": true,
+        "all_candidates_top5": [
+          {
+            "phrase": "relaxed fit",
+            "raw_count": 4,
+            "filter_match": false,
+            "score": 8,
+            "kind": "bigram"
+          },
+          {
+            "phrase": "boyhood bundled digital",
+            "raw_count": 2,
+            "filter_match": false,
+            "score": 6,
+            "kind": "trigram"
+          },
+          {
+            "phrase": "bundled digital nursery",
+            "raw_count": 2,
+            "filter_match": false,
+            "score": 6,
+            "kind": "trigram"
+          },
+          {
+            "phrase": "digital nursery wall",
+            "raw_count": 2,
+            "filter_match": false,
+            "score": 6,
+            "kind": "trigram"
+          },
+          {
+            "phrase": "tropical floral printing",
+            "raw_count": 1,
+            "filter_match": true,
+            "score": 6,
+            "kind": "trigram"
+          }
+        ],
+        "excluded_by_claims": [
+          "modern botanical illustration",
+          "vintage boy nursery",
+          "worn tropical floral",
+          "hibiscus print"
+        ]
+      }
+    }
+  ],
+  "platform_decision": {
+    "platform": "gh_pages",
+    "reason": "gh_pages chosen \u2014 top-ranked etsy blocked on missing etsy_seller_account. Ticket filed.",
+    "ready": true,
+    "preferred_blocked": "etsy",
+    "blocker": "etsy_seller_account",
+    "all_blocked_above": [
+      "etsy",
+      "redbubble",
+      "gumroad"
+    ],
+    "ladder": [
+      "etsy",
+      "redbubble",
+      "gumroad",
+      "gh_pages"
+    ]
+  },
+  "platform_blocker_ticket": "/Users/jmacsmac/agent-os/data/agent_needs/2026-05-16_platform_etsy_for_stickers_printable.json"
+}
